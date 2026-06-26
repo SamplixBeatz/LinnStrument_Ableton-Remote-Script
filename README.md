@@ -13,3 +13,12 @@ Study the included PDF for all mapped functions of the remote Script.
 8. If you have a Linnstrument 200: push a pad on row 17-25 after launch of Ableton
 9. Bug: Please make shure to switch back to "Notes Mode" before changing Ableton Sets (or your LinnStrument will freeze). Simply unplug and reconnect your LinnStrument if that occurs. I'm trying to resolve this issue..
 10. Enjoy your LinnStrument with a lot of APC 40 mk2 & Push functionality!
+
+Session Mode:
+![Session Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/01_Session%20Mode.JPG)
+
+Mixer Mode:
+![Mixer Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/02_Mixer%20Mode.jpg)
+
+Note Mode:
+![Note Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/03_Note%20Mode.JPG)
