@@ -5,6 +5,8 @@ It's a custom remote script focused on live looping in session view.
 Study the included PDF for all mapped functions of the remote Script.
 There is a second PDF for labelling the LinnStrument with the session mode functions (stickers).
 
+Regarding colors: The LinnStrument can display only 10 different colors. The Remote Script therefore attempts to render each track's color as accurately as possible. Clips are generally displayed in the track's color (no individual clip coloring).
+
 1. Unzip Remote Script
 
 2. Copy Folder "Linnstrument" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
@@ -17,7 +19,7 @@ There is a second PDF for labelling the LinnStrument with the session mode funct
 
 6. To switch between NOTE MODE and SESSION MODE, on LinnStrument press pad 1 (nearest to front) in column 1 (leftmost column).
 
-7. If you have a Linnstrument 200: push a pad on row 17-25 after launch of Ableton
+7. If you have a Linnstrument 200: push a pad on column 17-25 after launch of Ableton
 
 8. Enjoy your LinnStrument with a lot of APC 40 mk2 & Push functionality!
 
