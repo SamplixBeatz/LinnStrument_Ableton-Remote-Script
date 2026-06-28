@@ -1,4 +1,4 @@
-Ableton Remote Script for LinnStrument 128 and 200
+# Ableton Remote Script for LinnStrument 128 and 200
 
 This script adds clip launcher and a mixer functionality to your LinnStrument while using it in Ableton Live.
 It's a custom remote script focused on live looping in session view.
@@ -21,11 +21,13 @@ There is a second PDF for labelling the LinnStrument with the session mode funct
 
 8. Enjoy your LinnStrument with a lot of APC 40 mk2 & Push functionality!
 
-Session Mode:
+--------
+
+### Session Mode
 ![Session Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/01_Session%20Mode.JPG)
 
-Mixer Mode:
+### Mixer Mode
 ![Mixer Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/02_Mixer%20Mode.jpg)
 
-Note Mode:
+### Note Mode
 ![Note Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/03_Note%20Mode.JPG)
