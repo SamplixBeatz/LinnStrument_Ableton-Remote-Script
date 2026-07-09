@@ -1,4 +1,4 @@
-# Ableton Remote Script for LinnStrument 128 and 200
+# Ableton Remote Script for LinnStrument 128 / 200 - V1
 
 This script adds clip launcher and a mixer functionality to your LinnStrument while using it in Ableton Live.
 It's a custom remote script focused on live looping in session view.
