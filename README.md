@@ -12,6 +12,7 @@ Requirements:
 
 Regarding colors: The LinnStrument can display only 10 different colors. The Remote Script therefore attempts to render each track's color as accurately as possible. Clips are generally displayed in the track's color (no individual clip coloring).
 
+Installieren der Session_View Scripts:
 1. Unzip Remote Script
 
 2. Copy Folder "Linnstrument" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
