@@ -13,7 +13,7 @@ Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
 
 Requirements:
-- Session View scripts: Ableton Live 12 (not tested with earlier versions), Mac and Windows (only tested on Mac silicon)
+- Session View scripts: Ableton Live 12 (all editions, not tested with earlier versions), Mac and Windows (only tested on Mac silicon)
 - Arrangement View scripts: Ableton Live 12 Suite (requires Max for Live; not tested with earlier versions), Max-External 11strokes (https://github.com/11ols/11strokes), Mac only
 
 Regarding colors: The LinnStrument can display only 10 different colors. The Remote Script therefore attempts to render each track's color as accurately as possible. Clips are generally displayed in the track's color (no individual clip coloring).
