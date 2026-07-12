@@ -10,7 +10,6 @@ Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
 
 Requirements:
-- Mac silicon
 - Session View scripts: Ableton Live 12 (not tested with earlier versions), Mac and Windows (only tested on Mac silicon)
 - Arrangement View scripts: Ableton Live 12 Suite (requires Max for Live; not tested with earlier versions), Max-External 11strokes (https://github.com/11ols/11strokes), Mac only
 
