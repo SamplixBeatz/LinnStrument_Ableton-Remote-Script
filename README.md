@@ -12,22 +12,14 @@ Requirements:
 
 Regarding colors: The LinnStrument can display only 10 different colors. The Remote Script therefore attempts to render each track's color as accurately as possible. Clips are generally displayed in the track's color (no individual clip coloring).
 
-Installieren der Session_View Scripts:
-1. Unzip Remote Script
-
-2. Copy Folder "Linnstrument" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
-
-3. On LinnStrument, Per-Split Settings, Left Split, turn on CC FADERS (CC1-CC8, see PDF). Also, set the left split to a width of 1 column by HOLDing the SPLIT button while pressing any pad in column 1 (leftmost column). 
-
-4. Open Ableton
-
-5. In Ableton Preferences, select “TEMPO & MIDI” at left. Then in the MIDI section at right, under “Control Surface”, set the first unused row to “LinnStrument”. Then in the INPUT and OUTPUT columns for the same row, set both to LINNSTRUMENT MIDI”. 
-
-6. To switch between NOTE MODE and SESSION MODE, on LinnStrument press pad 1 (nearest to front) in column 1 (leftmost column).
-
-7. If you have a Linnstrument 200: push a pad on column 17-25 after launch of Ableton
-
-8. Enjoy your LinnStrument with a lot of APC 40 mk2 & Push functionality!
+Installieren eines Session_View Scripts:
+- Unzip Remote Script
+- Copy Folder "LinnStrument_XXX_Session_View" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
+- On LinnStrument, Per-Split Settings, Left Split, turn on CC FADERS (CC1-CC8, see PDF). Also, set the left split to a width of 1 column by HOLDing the SPLIT button while pressing any pad in column 1 (leftmost column). 
+- Open Ableton
+- In Ableton Preferences, select “TEMPO & MIDI” at left. Then in the MIDI section at right, under “Control Surface”, set the first unused row to “LinnStrument_XXX_Session_View”. Then in the INPUT and OUTPUT columns for the same row, set both to LINNSTRUMENT MIDI”. 
+- To switch between NOTE MODE and SESSION MODE, on LinnStrument press pad 1 (nearest to front) in column 1 (leftmost column).
+- Enjoy your LinnStrument with a lot of APC 40 mk2 & Push functionality!
 
 --------
 
