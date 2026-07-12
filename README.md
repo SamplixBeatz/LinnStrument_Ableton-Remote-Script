@@ -1,6 +1,6 @@
 # Ableton Remote Scripts for LinnStrument 128 / 200 - V2
 
-This scripts adds session_view (clip launcher and mixer) and arrangement_view functionality to your LinnStrument while using it in Ableton Live.
+These scripts add session_view (clip launcher and mixer) and arrangement_view functionality to your LinnStrument while using it in Ableton Live.
 They are custom remote scripts focused on live looping in session view and arranging in arrangement view.
 Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
