@@ -1,9 +1,13 @@
 # Ableton Remote Scripts for LinnStrument 128 / 200 - V2
 
-These scripts add session_view (clip launcher and mixer) and arrangement_view functionality to your LinnStrument while using it in Ableton Live.
-They are custom remote scripts focused on live looping in session view and arranging in arrangement view.
+These scripts allow you to control Ableton using the LinnStrument's pads. Separate remote scripts are available for each LinnStrument model (128/200) for working in Session View and Arrangement View.
+They are focused on live looping in session view and arranging in arrangement view.
 Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
+
+Requirements:
+- Session View scripts: Ableton Live 12 (not tested with earlier versions)
+- Arrangement View scripts: Ableton Live 12 Suite (requires Max for Live; not tested with earlier versions)
 
 Regarding colors: The LinnStrument can display only 10 different colors. The Remote Script therefore attempts to render each track's color as accurately as possible. Clips are generally displayed in the track's color (no individual clip coloring).
 
