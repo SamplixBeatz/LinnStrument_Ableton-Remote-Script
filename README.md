@@ -6,6 +6,9 @@ They are focused on live looping in session view and arranging in arrangement vi
 
 Each remote script also includes a “Note Mode,” in which (with the exception of the first pad column) the LinnStrument can be used in normal operating mode.
 
+You can also install multiple Remote Scripts, though of course you should only use one script at a time in Ableton.
+It’s also possible to use a LinnStrument script alongside a Push script (e.g., using the Push primarily for Session View and the LinnStrument for Arrangement View).
+
 Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
 
