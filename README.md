@@ -17,7 +17,7 @@ Regarding colors: The LinnStrument can display only 10 different colors. The Rem
 
 --------
 
-Installieren eines Session_View Scripts:
+Installing a Session_View script:
 - Unzip Remote Script
 - Copy Folder "LinnStrument_XXX_Session_View" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
 - On LinnStrument, Per-Split Settings, Left Split, turn on CC FADERS (CC1-CC8, see PDF). Also, set the left split to a width of 1 column by HOLDing the SPLIT button while pressing any pad in column 1 (leftmost column). 
@@ -28,7 +28,7 @@ Installieren eines Session_View Scripts:
 
 --------
 
-Installieren eines Arrangement_View Scripts:
+Installing a Arrangement_View script:
 - Unzip Remote Script
 - Copy Folder "LinnStrument_XXX_Arrangement_View" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
 - Copy the Max External “11strokes.mxo” to “/documents/Max 9/Packages/11strokes/externals”. For more information: https://github.com/11ols/11strokes
