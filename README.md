@@ -33,3 +33,6 @@ Regarding colors: The LinnStrument can display only 10 different colors. The Rem
 
 ### Note Mode
 ![Note Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/03_Note%20Mode.JPG)
+
+### Arrangement Mode
+![Arrangement Mode](https://github.com/SamplixBeatz/LinnStrument_Ableton-Remote-Script/blob/main/pictures/04_Arrangement%20Mode.JPG)
