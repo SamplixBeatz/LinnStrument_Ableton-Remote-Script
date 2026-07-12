@@ -1,7 +1,7 @@
 # Ableton Remote Scripts for LinnStrument 128 / 200 - V2
 
 These scripts allow you to control Ableton using the LinnStrument's pads. Separate remote scripts are available for each LinnStrument model (128/200) for working in Session View and Arrangement View.
-They are focused on live looping in session view and arranging in arrangement view.
+They are focused on live looping in session view and arranging in arrangement view (incl. keystrokes).
 Each remote script also includes a “Note Mode,” in which (with the exception of the first pad column) the LinnStrument can be used in normal operating mode.
 Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
