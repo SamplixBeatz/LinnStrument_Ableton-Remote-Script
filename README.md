@@ -1,21 +1,26 @@
 # Ableton Remote Scripts for LinnStrument 128 / 200 - V2
 
 These scripts allow you to control Ableton using the LinnStrument's pads. Separate remote scripts are available for each LinnStrument model (128/200) for working in Session View and Arrangement View.
-They are focused on live looping in session view and arranging in arrangement view.
+
+They are focused on live looping in session view and arranging in arrangement view (incl. keystrokes).
+
 Each remote script also includes a “Note Mode,” in which (with the exception of the first pad column) the LinnStrument can be used in normal operating mode.
+
+You can also install multiple Remote Scripts, though of course you should only use one script at a time in Ableton.
+It’s also possible to use a LinnStrument script alongside a Push script (e.g., using the Push primarily for Session View and the LinnStrument for Arrangement View).
+
 Study the included PDF's for all mapped functions of the remote scripts.
 There is a second PDF for labelling the LinnStrument with the session_view functions (stickers).
 
 Requirements:
-- Mac silicon
-- Session View scripts: Ableton Live 12 (not tested with earlier versions)
-- Arrangement View scripts: Ableton Live 12 Suite (requires Max for Live; not tested with earlier versions), Max-External 11strokes (https://github.com/11ols/11strokes)
+- Session View scripts: Ableton Live 12 (all editions, not tested with earlier versions), Mac and Windows (only tested on Mac silicon)
+- Arrangement View scripts: Ableton Live 12 Suite (requires Max for Live; not tested with earlier versions), Max-External 11strokes (https://github.com/11ols/11strokes), Mac only
 
 Regarding colors: The LinnStrument can display only 10 different colors. The Remote Script therefore attempts to render each track's color as accurately as possible. Clips are generally displayed in the track's color (no individual clip coloring).
 
 --------
 
-Installieren eines Session_View Scripts:
+Installing a Session_View script:
 - Unzip Remote Script
 - Copy Folder "LinnStrument_XXX_Session_View" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
 - On LinnStrument, Per-Split Settings, Left Split, turn on CC FADERS (CC1-CC8, see PDF). Also, set the left split to a width of 1 column by HOLDing the SPLIT button while pressing any pad in column 1 (leftmost column). 
@@ -26,7 +31,7 @@ Installieren eines Session_View Scripts:
 
 --------
 
-Installieren eines Arrangement_View Scripts:
+Installing a Arrangement_View script:
 - Unzip Remote Script
 - Copy Folder "LinnStrument_XXX_Arrangement_View" to your Ableton User Libary / Remote Scripts. If this folder does not exist, create it.
 - Copy the Max External “11strokes.mxo” to “/documents/Max 9/Packages/11strokes/externals”. For more information: https://github.com/11ols/11strokes
